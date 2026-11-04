@@ -14,7 +14,7 @@ Las capas hasta la de negocio fueron construidas con [Claude Code](https://claud
 | `spotipucp-dbmanager` | Conexión a la base de datos (MySQL) | Claude Code |
 | `spotipucp-accesodatos` | DAOs y manejo de transacciones | Claude Code |
 | `spotipucp-negocio` | Lógica de negocio (BL) y validaciones | Claude Code |
-| `spotipucp-ws` | Servicios web SOAP, DTOs y mappers | Yo |
+| `spotipucp-ws` | Servicios web SOAP, DTOs y mappers | Leonardo :) |
 
 El script de la base de datos está en `practica-lab10/sql/`.
 
