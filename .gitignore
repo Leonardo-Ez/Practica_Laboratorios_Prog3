@@ -1,0 +1,8 @@
+# Credenciales de base de datos
+db.properties
+
+# Salidas de compilación de Maven
+target/
+
+# IDE
+.idea/
